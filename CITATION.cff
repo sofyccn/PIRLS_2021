@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it as below."
+title: "PIRLS 2021: Student Well-Being and Reading Achievement — LPA Analysis"
+authors:
+- family-names: Cobo
+given-names: Sofia
+affiliation: University of South Florida
+version: 0.1.0
+date-released: 2025-10-01
+license: MIT
+repository-code: https://github.com/sofiacobo/PIRLS-2021-StudentWellbeing-ReadingAchievement

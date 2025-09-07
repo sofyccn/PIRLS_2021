@@ -1,0 +1,37 @@
+# R
+.Rhistory
+.Rproj.user/
+.RData
+.Ruserdata
+renv/library/
+
+
+# Data (never commit raw PIRLS data)
+data/raw/
+*.sav
+*.dta
+*.csv
+*.tsv
+*.xlsx
+*.zip
+
+
+# Outputs
+outputs/
+*.png
+*.pdf
+*.svg
+
+
+# OS/IDE
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+
+# Python (if used)
+__pycache__/
+*.pyc
+.env
+.venv/
